@@ -24,7 +24,7 @@ gosling:
 
 
 
-![](https://github.com/asu-brit/PAF514Lab5/assets/img/ryan-v-ryan.jpg)
+<img src="https://asu-brit.github.io/PAF514Lab5/assets/img/ryan-v-ryan.jpg" alt="">
  
 
 
